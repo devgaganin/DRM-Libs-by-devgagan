@@ -1,4 +1,4 @@
-# Must Read this ! FREE DRM DOWNLOADER LIBS for EVERYTYPE of Protected Content Exists
+# Must Read this ! FREE DRM DOWNLOADER LIBS for EVERYTYPE of DRM Protected Content that Exists
 
 Hello! 
 I am Gagan i will create and upload a DRM lib folder everyday with proper guide pdf / readme.md file
