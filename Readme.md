@@ -3,7 +3,7 @@
 Hello! 
 I am Gagan i will create and upload a DRM lib folder everyday with proper guide pdf / readme.md file
 
-fork and stay tuned....
+fork, give star 😢 and stay tuned....
 
 ## DRM Libs 
 DRM libs will cover following and many more
