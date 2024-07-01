@@ -28,6 +28,6 @@ up to n factor level of  authorization / decryption
 
 Bahut kuchh .....
 
-join me telegram for latest updates: 
+join me on telegram for latest updates: 
 
 channel link - [CLICK HERE](https://t.me/devggn)
